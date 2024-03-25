@@ -1,6 +1,5 @@
 public with sharing class ReferenceClass {
-	@TestVisible
-	private ReferenceClass() {
+	public ReferenceClass() {
 		System.debug('ReferenceClass constructor');
 	}
 }
