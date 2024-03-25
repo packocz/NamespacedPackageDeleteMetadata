@@ -1,0 +1,24 @@
+{
+	"packageDirectories": [
+		{
+			"path": "tmp",
+			"default": true
+		},
+		{
+			"path": "package1",
+			"package": "ComponentDeleteTest1",
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"default": false,
+			"versionDescription": ""
+		}
+	],
+	"namespace": "packocz",
+	"name": "NamespacedPackageDeleteMetadata",
+	"sfdcLoginUrl": "https://login.salesforce.com",
+	"sourceApiVersion": "59.0",
+	"packageAliases": {
+		"ComponentDeleteTest1": "0Ho08000000PAwjCAG",
+		"ComponentDeleteTest1@0.1.0-1": "04t08000000UJzAAAW"
+	}
+}
